@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="HANDSON_4"/>
+	<classpathentry kind="src" path="HANDSON_1"/>
+	<classpathentry kind="src" path="THIS"/>
+	<classpathentry kind="src" path="STATIC"/>
+	<classpathentry kind="src" path="ENCAPULATION">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="FUNCTIONS"/>
+	<classpathentry kind="src" path="HANDSON_5"/>
+	<classpathentry kind="src" path="POLIMRPISHM"/>
+	<classpathentry kind="src" path="HANDSON_2"/>
+	<classpathentry kind="src" path="ABSTRACTION"/>
+	<classpathentry kind="src" path="INNERCLASS"/>
+	<classpathentry kind="src" path="HANDSON_6"/>
+	<classpathentry kind="src" path="String"/>
+	<classpathentry kind="src" path="HANDSON_7"/>
+	<classpathentry kind="src" path="demo"/>
+	<classpathentry kind="src" path="FILE_IO"/>
+	<classpathentry kind="src" path="HANDSON_9"/>
+	<classpathentry kind="src" path="HANDSON_8"/>
+	<classpathentry kind="src" path="GENERICS"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,10 @@
+package StaticEx;
+
+public class staticExecute {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
