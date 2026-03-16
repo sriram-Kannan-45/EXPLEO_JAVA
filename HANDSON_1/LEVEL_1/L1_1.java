@@ -5,17 +5,9 @@ import java.util.Scanner;
 public class L1_1 {
 	
 	public static void main(String srt[])
+	
 	{
 		Scanner sc = new Scanner (System.in);
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		System.out.print("ENTER A NAME : ");
 		String name = sc.next();
 		
