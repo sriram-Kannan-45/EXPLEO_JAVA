@@ -26,6 +26,8 @@
 	<classpathentry kind="src" path="GENERICS"/>
 	<classpathentry kind="src" path="Collection"/>
 	<classpathentry kind="src" path="HANDSON_10"/>
+	<classpathentry kind="src" path="HANDON_17"/>
+	<classpathentry kind="src" path="HANDSON_3"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
